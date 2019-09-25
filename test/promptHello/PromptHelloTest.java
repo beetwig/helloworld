@@ -28,6 +28,7 @@ public class PromptHelloTest {
 
 	@Test
 	public void testSucces() {
+<<<<<<< HEAD
 		System.out.println("Positive Case Junit");
 		assertTrue(true);
 	}
@@ -38,5 +39,14 @@ public class PromptHelloTest {
 		assertTrue(false);
 	}
 	*/
+=======
+		assertTrue(true);
+	}
+	
+	@Test
+	public void testFail() {
+		assertTrue(false);
+	}
+>>>>>>> 64870a667f0079bc5189fd87b4c578d76558eb27
 
 }
