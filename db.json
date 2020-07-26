@@ -6,7 +6,7 @@
       "content": [
         "first task", 
         "second task",
-        "and thrid"],
+        "and thrid"]
     },
     {
       "id": 22 , 
@@ -14,14 +14,14 @@
       "content": [
         "first task" , 
         "second task"
-      ],
+      ]
     },
     {
       "id": 33, 
       "title": "done", 
       "content": [
         "first task" 
-      ],
-    },
+      ]
+    }
   ]
 }
