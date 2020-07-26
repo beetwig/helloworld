@@ -1,11 +1,27 @@
 {
-  "posts": [
+  "notes": [
     {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      "id": 1 , 
+      "title": 'todo', 
+      "content": [
+        'first task' , 
+        'second task',
+        'and thrid'],
+    },
+    {
+      "id": 22 , 
+      "title": 'in-progress', 
+      "content": [
+        'first task' , 
+        'second task'
+      ],
+    },
+    {
+      "id": 33, 
+      "title": 'done', 
+      "content": [
+        'first task' 
+      ],
+    },
+  ]
 }
